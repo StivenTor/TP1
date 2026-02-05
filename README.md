@@ -4,7 +4,6 @@ La structure suivante doit être respectée pour que les images des rapports fin
 
 ## 📁 Structure du projet
 
-- 📂 **code/** - Code source
 - 📂 **images_intermediaires_sec1/** - dossier de génération, après exécution du code à chaque phase, tp1_data
 - 📂 **images_intermediaires_sec2/** - dossier de génération, après exécution du code à chaque phase, tp1_data
 - 📂 **images_intermediaires_sec3/** - dossier de génération, après exécution du code à chaque phase, tp1_data
