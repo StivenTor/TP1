@@ -12,9 +12,7 @@ La structure suivante doit être respectée pour que les images des rapports fin
 - 📂 **images_perso_sec2/** - dossier de génération, après l'exécution du code à chaque étape, a pour base mes_images
 - 📂 **images_perso_sec3/** - dossier de génération, après l'exécution du code à chaque étape, a pour base mes_images
 - 📂 **images_perso_sec4/** - dossier de génération, après l'exécution du code à chaque étape, a pour base mes_images
-- 📂 **mes_images/** - mes photos
 - 📂 **report/** - le rapport final
-- 📂 **tp1_data/** - images de l'œuvre
 - 📄 **structure.png** - Capture d'écran de l'arborescence des dossiers pour constater le bon résultat
 
 
