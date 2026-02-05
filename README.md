@@ -19,3 +19,5 @@ La structure suivante doit être respectée pour que les images des rapports fin
 - 📄 **structure.png** - Capture d'écran de l'arborescence des dossiers pour constater le bon résultat
 
 
+# ⚠️ IMPORTANT ⚠️
+Important : J’ai téléchargé mes images personnelles, correctement structurées et générées après l’exécution du pipeline, sur le dépôt Git au cas où vous souhaiteriez les télécharger, car la taille maximale des fichiers que je peux télécharger est de 250 Mo.
